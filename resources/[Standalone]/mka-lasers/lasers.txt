@@ -1,0 +1,21 @@
+-- Name: 2left | 2021-05-06T01:44:02Z
+Laser.new(
+  vector3(257.269, 218.835, 104.685),
+  {vector3(257.148, 218.723, 100.683), vector3(255.9, 219.192, 100.683), vector3(254.61, 219.638, 100.683), vector3(256.614, 217.07, 100.683), vector3(255.235, 217.601, 100.683), vector3(253.989, 218.089, 100.683), vector3(253.354, 216.17, 100.683), vector3(254.6, 215.715, 100.683), vector3(255.889, 215.221, 100.683)},
+  {travelTimeBetweenTargets = {1.0, 1.0}, waitTimeAtTargets = {0.0, 0.0}, randomTargetSelection = true, name = "2left"}
+)
+
+-- Name: 1right | 2021-05-06T02:11:34Z
+Laser.new(
+  vector3(253.342, 216.008, 104.725),
+  {vector3(253.324, 216.108, 100.683), vector3(254.672, 215.65, 100.683), vector3(255.911, 215.233, 100.683), vector3(253.856, 217.973, 100.683), vector3(255.269, 217.411, 100.683), vector3(256.678, 216.921, 100.683), vector3(254.632, 219.718, 100.683), vector3(255.867, 219.249, 100.683), vector3(257.269, 218.733, 100.683)},
+  {travelTimeBetweenTargets = {1.0, 1.0}, waitTimeAtTargets = {0.0, 0.0}, randomTargetSelection = true, name = "1right"}
+)
+
+-- Name: 2right | 2021-05-06T02:13:32Z
+Laser.new(
+  vector3(255.945, 215.061, 104.731),
+  {vector3(253.311, 216.146, 100.683), vector3(254.622, 215.716, 100.683), vector3(255.978, 215.178, 100.683), vector3(253.867, 217.866, 100.683), vector3(255.143, 217.378, 100.683), vector3(256.608, 216.844, 100.683), vector3(254.641, 219.727, 100.683), vector3(255.821, 219.233, 100.683), vector3(257.227, 218.753, 100.683)},
+  {travelTimeBetweenTargets = {1.0, 1.0}, waitTimeAtTargets = {0.0, 0.0}, randomTargetSelection = true, name = "2right"}
+)
+
